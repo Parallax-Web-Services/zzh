@@ -4,7 +4,7 @@
 //! implement SSH, a VPN, automatic pairing, or distributed scheduling.
 
 use std::env;
-use std::fs::{self, File, OpenOptions};
+use std::fs::{self, OpenOptions};
 use std::io::Write;
 use std::path::{Path, PathBuf};
 use std::process::{Command, Stdio};
