@@ -1,0 +1,8 @@
+[package]
+name = "zzh"
+version = "0.1.0"
+edition = "2021"
+description = "OpenSSH-backed secure access for Parallax private fabrics"
+publish = false
+
+[dependencies]
